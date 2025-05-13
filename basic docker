@@ -1,0 +1,9 @@
+N8N_COMMUNITY_PACKAGES_ALLOW_TOOL_USAGE = true
+
+N8N_EDITOR_BASE_URL
+WEBHOOK_URL
+link
+https://ape-climbing-reindeer.ngrok-free.app
+
+
+N8N_DEFAULT_BINARY_DATA_MODE = filesystem
