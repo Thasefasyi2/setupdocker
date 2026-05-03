@@ -4,3 +4,6 @@ chmod +X run.sh
 
 nb.
 udah install cloudflared
+
+jangan lupa buat mac / linux
+dos2unix [x].sh
