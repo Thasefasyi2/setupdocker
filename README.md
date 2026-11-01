@@ -3,4 +3,4 @@ chmod +X run.sh
 
 
 nb.
-udah install cloudflared
+udah install cloudflare tunnel dan git
